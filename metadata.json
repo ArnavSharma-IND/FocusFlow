@@ -1,0 +1,8 @@
+{
+  "name": "Animated To-Do List",
+  "description": "A premium, responsive, and beautifully animated task manager featuring AI task parsing, interactive progress charts, Pomodoro timer, drag-to-reorder, and stunning microinteractions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
